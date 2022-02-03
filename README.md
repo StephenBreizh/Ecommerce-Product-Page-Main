@@ -1,3 +1,11 @@
+## Répartition des taches : 
+
+**html** : Stephen et Yassine
+
+**css** : Stephen et Yassine
+
+**javascript** : Stephen et Yassine
+
 # Frontend Mentor - E-commerce product page
 
 ![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
@@ -94,3 +102,5 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+Nous avons suivie le tutoriel suivant : https://www.youtube.com/watch?v=hSs3POz2bRo&t=936s
